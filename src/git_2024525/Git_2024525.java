@@ -14,7 +14,8 @@ public class Git_2024525 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // printing my name and my student number
+        System.out.println("Anderson Fagundes Santos - 2024525");
     }
     
 }
